@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on neural research, anything cloud, database, machine learning, AI, robotics, i would love to volunteer in your research!
 - 📫 How to reach me : Charissa Lau (linked in), mail : charissalaumj@gmail.com
 - 😄 Pronouns: idc
-- ⚡ Fun fact: i am into music production :) 
+- ⚡ Fun fact: i love reading non-fiction and listens to rnb
 
 <!---
 Charissa-Lau/Charissa-Lau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
