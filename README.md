@@ -1,2 +1,3 @@
-** Computer Vision research**
-This project compares four models—ResNet-18, ResNet-50, EfficientNet-B0, and a Hybrid SVM—for classifying aerial landscapes using the SkyView dataset. ResNet-18 achieved the highest accuracy (98%) with fine-tuned transfer learning. The Hybrid SVM, combining SIFT-BoVW, PCA-reduced SENet-50 embeddings, and HSV histograms, performed comparably (96%) using only CPU resources. The study highlights trade-offs between deep learning accuracy and classical model efficiency, with insights into model robustness under class imbalance
+- ** Computer Vision research**
+
+- This project compares four models—ResNet-18, ResNet-50, EfficientNet-B0, and a Hybrid SVM—for classifying aerial landscapes using the SkyView dataset. ResNet-18 achieved the highest accuracy (98%) with fine-tuned transfer learning. The Hybrid SVM, combining SIFT-BoVW, PCA-reduced SENet-50 embeddings, and HSV histograms, performed comparably (96%) using only CPU resources. The study highlights trade-offs between deep learning accuracy and classical model efficiency, with insights into model robustness under class imbalance
